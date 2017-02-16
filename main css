@@ -1,0 +1,13 @@
+.mainContainer{
+    width: 100%;
+    height: 100%;
+
+}
+
+/*this is the class of each square we split into 4 */
+.sub-container
+{
+    width:50%;
+    height: 50%;
+    float:left;
+}
